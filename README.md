@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+> "It's impossible to effectively use any abstraction if you don't understand what it's
+abstracting and why."
+
 <!--
 **defytheflow/defytheflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
