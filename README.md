@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-> "It's impossible to effectively use any abstraction if you don't understand what it's
+> 🔥 "Education is the kindling of a flame, not the filling of a vessel."
+
+> 🐟 "Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will
+live its whole life believing that it is stupid."
+
+> 🧑‍💻 "It's impossible to effectively use any abstraction if you don't understand what it's
 abstracting and why."
 
 <!--
